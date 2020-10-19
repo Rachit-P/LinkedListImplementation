@@ -664,30 +664,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\panderac\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/rachit/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Rachit's\\MyVault\\PersonalDocs\\Professional\\CV & Notes\\DataStructures\\Projects\\LinkedList\\LinkedList\\LinkedListProject.csproj",
+      "projectUniqueName": "/Users/rachit/Projects/LinkedListImplementation/LinkedList/LinkedListProject.csproj",
       "projectName": "LinkedListProject",
-      "projectPath": "C:\\Rachit's\\MyVault\\PersonalDocs\\Professional\\CV & Notes\\DataStructures\\Projects\\LinkedList\\LinkedList\\LinkedListProject.csproj",
-      "packagesPath": "C:\\Users\\panderac\\.nuget\\packages\\",
-      "outputPath": "C:\\Rachit's\\MyVault\\PersonalDocs\\Professional\\CV & Notes\\DataStructures\\Projects\\LinkedList\\LinkedList\\obj\\",
+      "projectPath": "/Users/rachit/Projects/LinkedListImplementation/LinkedList/LinkedListProject.csproj",
+      "packagesPath": "/Users/rachit/.nuget/packages/",
+      "outputPath": "/Users/rachit/Projects/LinkedListImplementation/LinkedList/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\panderac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/rachit/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -705,16 +703,23 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
       }
     }
   }

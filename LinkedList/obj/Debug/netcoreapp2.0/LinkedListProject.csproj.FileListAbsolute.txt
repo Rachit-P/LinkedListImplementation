@@ -1,11 +1,23 @@
-C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\LinkedList\LinkedList\bin\Debug\netcoreapp2.0\LinkedListProject.deps.json
-C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\LinkedList\LinkedList\bin\Debug\netcoreapp2.0\LinkedListProject.runtimeconfig.json
-C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\LinkedList\LinkedList\bin\Debug\netcoreapp2.0\LinkedListProject.runtimeconfig.dev.json
-C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\LinkedList\LinkedList\bin\Debug\netcoreapp2.0\LinkedListProject.dll
-C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\LinkedList\LinkedList\bin\Debug\netcoreapp2.0\LinkedListProject.pdb
-C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\LinkedList\LinkedList\obj\Debug\netcoreapp2.0\LinkedListProject.csprojAssemblyReference.cache
-C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\LinkedList\LinkedList\obj\Debug\netcoreapp2.0\LinkedListProject.csproj.CoreCompileInputs.cache
-C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\LinkedList\LinkedList\obj\Debug\netcoreapp2.0\LinkedListProject.AssemblyInfoInputs.cache
-C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\LinkedList\LinkedList\obj\Debug\netcoreapp2.0\LinkedListProject.AssemblyInfo.cs
-C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\LinkedList\LinkedList\obj\Debug\netcoreapp2.0\LinkedListProject.dll
-C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\LinkedList\LinkedList\obj\Debug\netcoreapp2.0\LinkedListProject.pdb
+C:/Rachit's/MyVault/PersonalDocs/Professional/CV & Notes/DataStructures/Projects/LinkedList/LinkedList/bin/Debug/netcoreapp2.0/LinkedListProject.deps.json
+C:/Rachit's/MyVault/PersonalDocs/Professional/CV & Notes/DataStructures/Projects/LinkedList/LinkedList/bin/Debug/netcoreapp2.0/LinkedListProject.runtimeconfig.json
+C:/Rachit's/MyVault/PersonalDocs/Professional/CV & Notes/DataStructures/Projects/LinkedList/LinkedList/bin/Debug/netcoreapp2.0/LinkedListProject.runtimeconfig.dev.json
+C:/Rachit's/MyVault/PersonalDocs/Professional/CV & Notes/DataStructures/Projects/LinkedList/LinkedList/bin/Debug/netcoreapp2.0/LinkedListProject.dll
+C:/Rachit's/MyVault/PersonalDocs/Professional/CV & Notes/DataStructures/Projects/LinkedList/LinkedList/bin/Debug/netcoreapp2.0/LinkedListProject.pdb
+C:/Rachit's/MyVault/PersonalDocs/Professional/CV & Notes/DataStructures/Projects/LinkedList/LinkedList/obj/Debug/netcoreapp2.0/LinkedListProject.csprojAssemblyReference.cache
+C:/Rachit's/MyVault/PersonalDocs/Professional/CV & Notes/DataStructures/Projects/LinkedList/LinkedList/obj/Debug/netcoreapp2.0/LinkedListProject.csproj.CoreCompileInputs.cache
+C:/Rachit's/MyVault/PersonalDocs/Professional/CV & Notes/DataStructures/Projects/LinkedList/LinkedList/obj/Debug/netcoreapp2.0/LinkedListProject.AssemblyInfoInputs.cache
+C:/Rachit's/MyVault/PersonalDocs/Professional/CV & Notes/DataStructures/Projects/LinkedList/LinkedList/obj/Debug/netcoreapp2.0/LinkedListProject.AssemblyInfo.cs
+C:/Rachit's/MyVault/PersonalDocs/Professional/CV & Notes/DataStructures/Projects/LinkedList/LinkedList/obj/Debug/netcoreapp2.0/LinkedListProject.dll
+C:/Rachit's/MyVault/PersonalDocs/Professional/CV & Notes/DataStructures/Projects/LinkedList/LinkedList/obj/Debug/netcoreapp2.0/LinkedListProject.pdb
+/Users/rachit/Projects/LinkedListImplementation/LinkedList/bin/Debug/netcoreapp2.0/LinkedListProject.deps.json
+/Users/rachit/Projects/LinkedListImplementation/LinkedList/bin/Debug/netcoreapp2.0/LinkedListProject.runtimeconfig.json
+/Users/rachit/Projects/LinkedListImplementation/LinkedList/bin/Debug/netcoreapp2.0/LinkedListProject.runtimeconfig.dev.json
+/Users/rachit/Projects/LinkedListImplementation/LinkedList/bin/Debug/netcoreapp2.0/LinkedListProject.dll
+/Users/rachit/Projects/LinkedListImplementation/LinkedList/bin/Debug/netcoreapp2.0/LinkedListProject.pdb
+/Users/rachit/Projects/LinkedListImplementation/LinkedList/obj/Debug/netcoreapp2.0/LinkedListProject.csprojAssemblyReference.cache
+/Users/rachit/Projects/LinkedListImplementation/LinkedList/obj/Debug/netcoreapp2.0/LinkedListProject.AssemblyInfoInputs.cache
+/Users/rachit/Projects/LinkedListImplementation/LinkedList/obj/Debug/netcoreapp2.0/LinkedListProject.AssemblyInfo.cs
+/Users/rachit/Projects/LinkedListImplementation/LinkedList/obj/Debug/netcoreapp2.0/LinkedListProject.csproj.CoreCompileInputs.cache
+/Users/rachit/Projects/LinkedListImplementation/LinkedList/obj/Debug/netcoreapp2.0/LinkedListProject.dll
+/Users/rachit/Projects/LinkedListImplementation/LinkedList/obj/Debug/netcoreapp2.0/LinkedListProject.pdb
+/Users/rachit/Projects/LinkedListImplementation/LinkedList/obj/Debug/netcoreapp2.0/LinkedListProject.genruntimeconfig.cache
