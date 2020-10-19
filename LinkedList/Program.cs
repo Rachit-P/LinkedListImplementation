@@ -37,7 +37,7 @@ namespace LinkedList
             Console.WriteLine("Linked list items after deleting head node, making second node as the head: ");
             linkedList.ReadAndPrintAllNodes();
 
-            Console.WriteLine("New string added from Visual studio 2019 on my Mac");
+            Console.WriteLine("New string added from Visual studio 2019 on my Mac!");
 
 
             Console.ReadKey();
